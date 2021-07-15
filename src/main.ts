@@ -1,8 +1,6 @@
-import Game from './Game';
+import Game from "./Game";
 
 //
 // entry
 //
 new Game();
-
-
