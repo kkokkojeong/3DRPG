@@ -45,7 +45,7 @@ module.exports = (env, options) => {
     config.devServer = {
       hot: true,
       host: "localhost",
-      port: 8000,
+      port: 7272,
       contentBase: outputPath,
       stats: {
         color: true,
